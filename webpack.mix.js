@@ -17,3 +17,4 @@ mix.js('resources/js/app.js', 'public/js')
     ]);
 
 console.log('test')
+console.log('master')
